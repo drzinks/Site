@@ -1,4 +1,4 @@
-package com.drzinks;
+package com.drzinks.client;
 
 import javax.servlet.annotation.WebServlet;
 
